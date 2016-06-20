@@ -3,7 +3,7 @@ Date: 2016-12-03 10:20
 Modified: 2016-12-05 19:30 
 Category: Python 
 Tags: pelican, publishing 
-Slug: my-super-post 
+Slug: my-super-pos1t 
 Authors: Evan Yuri Kruchowy
 Summary: Create a webhook driven blog using Pelican and a little bit of scripting
 
