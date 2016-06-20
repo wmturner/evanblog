@@ -1,4 +1,4 @@
-Title: The blog is back!!! 
+Title: The blog is back!! 
 Date: 2016-12-03 10:20 
 Modified: 2016-12-05 19:30 
 Category: Python 
